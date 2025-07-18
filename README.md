@@ -20,7 +20,7 @@ Ez a projekt egy webes koktélkatalógus, amely interaktív, lapozható kártyá
 ---
 
 ## 🌐 Élő demó:
-[🔗 drinkme-chati-and-imre-v2.netlify.app](https://drinkme-demo.netlify.app/)
+[🔗 drinkme-demo.netlify.app](https://drinkme-demo.netlify.app/)
 
 ---
 
