@@ -7,7 +7,7 @@ Ez a projekt egy webes koktélkatalógus, amely interaktív, lapozható kártyá
 
 ## 🔍 Funkciók (a demo verzióban):
 - 🍸 Lapozható koktélkártyák (Mojito, Pina Colada, Zombi, stb.)
-- 🌍 3 nyelvű leírás: magyar, angol, német
+- 🌍 3 nyelvű leírás: magyar, angol
 - 📷 Koktélképek és stílusos dizájn
 - 🧭 Egyszerű navigáció Netlify-ra optimalizálva
 
@@ -20,7 +20,7 @@ Ez a projekt egy webes koktélkatalógus, amely interaktív, lapozható kártyá
 ---
 
 ## 🌐 Élő demó:
-[🔗 drinkme-chati-and-imre-v2.netlify.app](https://drinkme-chati-and-imre-v2.netlify.app/)
+[🔗 drinkme-chati-and-imre-v2.netlify.app](https://drinkme-demo.netlify.app/)
 
 ---
 
