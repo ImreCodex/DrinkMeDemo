@@ -7,7 +7,7 @@ Ez a projekt egy webes koktélkatalógus, amely interaktív, lapozható kártyá
 
 ## 🔍 Funkciók (a demo verzióban):
 - 🍸 Lapozható koktélkártyák (Mojito, Pina Colada, Zombi, stb.)
-- 🌍 3 nyelvű leírás: magyar, angol
+- 🌍 2 nyelvű leírás: magyar, angol
 - 📷 Koktélképek és stílusos dizájn
 - 🧭 Egyszerű navigáció Netlify-ra optimalizálva
 
